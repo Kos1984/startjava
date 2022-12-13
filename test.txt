@@ -1,3 +1,6 @@
-Jkascl
-Zlkc
-Hello world
+public class Test{
+	public static void main(String[] args){
+	
+
+	}
+}
